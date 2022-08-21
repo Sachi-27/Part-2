@@ -1,4 +1,4 @@
-# Part-2
+# SIMS
 Create a basic student information management system in php with the following
 requirements - <br />
 1. The landing page should display information about all the students (Name, Roll
